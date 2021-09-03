@@ -1,11 +1,4 @@
-"""
-This is the LifeStore_SalesList data:
-
-lifestore_searches = [id_search, id product]
-lifestore_sales = [id_sale, id_product, score (from 1 to 5), date, refund (1 for true or 0 to false)]
-lifestore_products = [id_product, name, price, category, stock]
-"""
-
+# [id_product, name, price, category, stock]
 lifestore_products = [
     [1, 'Procesador AMD Ryzen 3 3300X S-AM4, 3.80GHz, Quad-Core, 16MB L2 Cache', 3019, 'procesadores', 16],
     [2, 'Procesador AMD Ryzen 5 3600, S-AM4, 3.60GHz, 32MB L3 Cache, con Disipador Wraith Stealth', 4209, 'procesadores', 182],
@@ -105,6 +98,7 @@ lifestore_products = [
     [96, 'Klip Xtreme Audífonos Blast, Bluetooth, Inalámbrico, Negro/Verde', 769, 'audifonos', 2]
 ]
 
+# [id_sale, id_product, score (from 1 to 5), date, refund (1 for true or 0 to false)]
 lifestore_sales = [
     [1, 1, 5, '24/07/2020', 0],
     [2, 1, 5, '27/07/2020', 0],
@@ -391,6 +385,7 @@ lifestore_sales = [
     [283, 94, 4, '10/04/2020', 0]
 ]
 
+# [id_search, id product]
 lifestore_searches = [
     [1, 1],
     [2, 1],
