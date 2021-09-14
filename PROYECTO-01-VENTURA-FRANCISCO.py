@@ -68,9 +68,15 @@ def print_point11(list, lifestore_products, attribute):
 def print_point12(list, attribute):
     '''Function for printing the format for the point 1.2'''
     for category, value in list:
-        print(f'La categoría "{category}" tuvo {value} {attribute}')
+        print(f'La categoría de {category} tuvo {value} {attribute}')
     print()
 
+
+def print_correct_point12(worst_dict, attribute, lifestore_products):
+    '''Correct function for printing the format for the point 1.2'''
+    for category, products in worst_dict.items():
+        print(f"Menores {attribute[:-1]} para la categoria de {category}")
+        print_point11(products, lifestore_products, attribute)
 
 def print_point2(list, lifestore_products, attribute):
     '''Function for printing the format for the point 2'''
@@ -92,6 +98,19 @@ def categories_dict(container, lifestore_products):
             categories[category] += 1
         else:
             categories[category] = 1
+    return categories
+
+
+def worst_by_categories(container, lifestore_products, limit):
+    '''Function to get the worst products in reviews and sells by categories'''
+    categories = {}
+    for product_id, type in container[::-1]:
+        category = lifestore_products[product_id - 1][3]
+        if category in categories:
+            if len(categories[category]) < limit:
+                categories[category].append((product_id, type))
+        else:
+            categories[category] = [(product_id, type)]
     return categories
 
 
@@ -129,7 +148,7 @@ def organize_product_reviews(lifestore_sales):
     reviews_list = list(reviews.items())
     # Calculate the average for all products sold
     result = [(index, vals[0]/vals[1]) for index, vals in reviews_list]
-    # Order by average reviews 
+    # Order by average reviews
     result = sorted(result, key=lambda x: x[1])
     return result
 
@@ -182,7 +201,8 @@ def calc_revenue_by_year(revenue_dict):
 
 def print_total_revenue(total_revenue):
     '''Function to print the total revenue of the company'''
-    print(f'Ingresos totales: {locale.currency(total_revenue, grouping=True)} MXN')
+    print(
+        f'Ingresos totales: {locale.currency(total_revenue, grouping=True)} MXN')
     print()
 
 
@@ -228,22 +248,26 @@ def main():
     # Pass through all the different types of analysis
     print('------------------- BEST SELLERS -------------------------------------------------------')
     sellers = organize_products(lifestore_sales)
-    print_point11(sellers[0:50], lifestore_products, 'ventas.')
+    print_point11(sellers[0:15], lifestore_products, 'ventas.')
     print('------------------ MOST SEARCHED -------------------------------------------------------')
     most_search = organize_products(lifestore_searches)
-    print_point11(most_search[0:100], lifestore_products, 'búsquedas.')
+    print_point11(most_search[0:20], lifestore_products, 'búsquedas.')
     print('------------- WORST SELLERS BY CATEGORY ------------------------------------------------')
     category_sellers = organize_categories(lifestore_sales, lifestore_products)
-    print_point12(category_sellers, 'ventas.')
+    print_point12(category_sellers, 'ventas.') # This one is different from what it was needed
+    worst_sells_categories = worst_by_categories(sellers, lifestore_products, 5)
+    print_correct_point12(worst_sells_categories, 'ventas.', lifestore_products)
     print('------------- LEAST SEARCHED BY CATEGORY -----------------------------------------------')
     category_least_search = organize_categories(
         lifestore_searches, lifestore_products)
-    print_point12(category_least_search, 'búsquedas.')
+    print_point12(category_least_search, 'búsquedas.') # This one is different from what it was needed
+    worst_reviews_categories = worst_by_categories(most_search, lifestore_products, 20)
+    print_correct_point12(worst_reviews_categories, 'búsquedas.', lifestore_products)
     print('--------------- BEST REVIEWS BY PRODUCT ------------------------------------------------')
     reviews = organize_product_reviews(lifestore_sales)
-    print_point2(reviews[:-20:-1], lifestore_products, 'en calificación.')
+    print_point2(reviews[:-10:-1], lifestore_products, 'en calificación.')
     print('--------------- WORST REVIEWS BY PRODUCT -----------------------------------------------')
-    print_point2(reviews[:20], lifestore_products, 'en calificación.')
+    print_point2(reviews[:10], lifestore_products, 'en calificación.')
     print('------------------------- REVENUE ------------------------------------------------------')
     year_n_month_sells = revenue_by_month_n_year(
         lifestore_sales, lifestore_products)

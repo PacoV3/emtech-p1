@@ -1,0 +1,214 @@
+Ingrese su nombre de usuario: paco123
+Ingrese su contraseña: pass123
+
+------------------- BEST SELLERS -------------------------------------------------------
+"SSD Kingston A400" tuvo 50 ventas.
+"Procesador AMD Ryzen 5 2600" tuvo 42 ventas.
+"Procesador Intel Core i3-9100F" tuvo 20 ventas.
+"Tarjeta Madre ASRock Micro ATX B450M Steel Legend" tuvo 18 ventas.
+"SSD Adata Ultimate SU800" tuvo 15 ventas.
+"Tarjeta Madre ASUS micro ATX TUF B450M-PLUS GAMING" tuvo 14 ventas.
+"Procesador AMD Ryzen 5 3600" tuvo 13 ventas.
+"Procesador AMD Ryzen 3 3200G con Gráficos Radeon Vega 8" tuvo 13 ventas.
+"SSD XPG SX8200 Pro" tuvo 11 ventas.
+"Tarjeta de Video ASUS NVIDIA GeForce GTX 1660 SUPER EVO OC" tuvo 9 ventas.
+"SSD Kingston A2000 NVMe" tuvo 9 ventas.
+"Procesador Intel Core i7-9700K" tuvo 7 ventas.
+"Tarjeta Madre AORUS micro ATX B450 AORUS M (rev. 1.0)" tuvo 6 ventas.
+"Tarjeta Madre MSI ATX B450 TOMAHAWK MAX" tuvo 6 ventas.
+"Tarjeta de Video Gigabyte NVIDIA GeForce GT 1030" tuvo 5 ventas.
+
+------------------ MOST SEARCHED -------------------------------------------------------
+"SSD Kingston A400" tuvo 263 búsquedas.
+"SSD Adata Ultimate SU800" tuvo 107 búsquedas.
+"Tarjeta Madre ASUS micro ATX TUF B450M-PLUS GAMING" tuvo 60 búsquedas.
+"Procesador AMD Ryzen 5 2600" tuvo 55 búsquedas.
+"Procesador AMD Ryzen 3 3200G con Gráficos Radeon Vega 8" tuvo 41 búsquedas.
+"Logitech Audífonos Gamer G635 7.1" tuvo 35 búsquedas.
+"TV Monitor LED 24TL520S-PU 24" tuvo 32 búsquedas.
+"Procesador Intel Core i7-9700K" tuvo 31 búsquedas.
+"Procesador Intel Core i3-9100F" tuvo 30 búsquedas.
+"SSD XPG SX8200 Pro" tuvo 30 búsquedas.
+"SSD Kingston A2000 NVMe" tuvo 27 búsquedas.
+"Tarjeta Madre MSI ATX B450 TOMAHAWK MAX" tuvo 25 búsquedas.
+"Procesador AMD Ryzen 5 3600" tuvo 24 búsquedas.
+"Tarjeta Madre ASRock Micro ATX B450M Steel Legend" tuvo 23 búsquedas.
+"Procesador Intel Core i5-9600K" tuvo 20 búsquedas.
+"Tarjeta de Video ASUS NVIDIA GeForce GTX 1660 SUPER EVO OC" tuvo 15 búsquedas.
+"Tarjeta de Video MSI AMD Mech Radeon RX 5500 XT MECH Gaming OC" tuvo 15 búsquedas.
+"TCL Smart TV LED 55S425 54.6" tuvo 15 búsquedas.
+"Tarjeta de Video Gigabyte NVIDIA GeForce GT 1030" tuvo 11 búsquedas.
+"SSD Kingston UV500" tuvo 11 búsquedas.
+
+------------- WORST SELLERS BY CATEGORY ------------------------------------------------
+La categoría de memorias usb tuvo 1 ventas.
+La categoría de pantallas tuvo 2 ventas.
+La categoría de bocinas tuvo 2 ventas.
+La categoría de audifonos tuvo 5 ventas.
+La categoría de tarjetas de video tuvo 26 ventas.
+La categoría de tarjetas madre tuvo 49 ventas.
+La categoría de discos duros tuvo 94 ventas.
+La categoría de procesadores tuvo 104 ventas.
+
+Menores ventas para la categoria de audifonos
+"HyperX Audífonos Gamer Cloud Flight para PC/PS4/PS4 Pro" tuvo 1 ventas.
+"Cougar Audífonos Gamer Phontum Essential" tuvo 1 ventas.
+"Logitech Audífonos Gamer G332" tuvo 1 ventas.
+"Logitech Audífonos Gamer G635 7.1" tuvo 2 ventas.
+
+Menores ventas para la categoria de pantallas
+"TV Monitor LED 24TL520S-PU 24" tuvo 1 ventas.
+"TCL Smart TV LED 55S425 54.6" tuvo 1 ventas.
+
+Menores ventas para la categoria de memorias usb
+"Kit Memoria RAM Corsair Dominator Platinum DDR4" tuvo 1 ventas.
+
+Menores ventas para la categoria de discos duros
+"SSD Crucial MX500" tuvo 1 ventas.
+"SSD Western Digital WD Blue 3D NAND" tuvo 2 ventas.
+"SSD Kingston UV500" tuvo 3 ventas.
+"Kit SSD Kingston KC600" tuvo 3 ventas.
+"SSD Kingston A2000 NVMe" tuvo 9 ventas.
+
+Menores ventas para la categoria de tarjetas madre
+"Tarjeta Madre Gigabyte micro ATX GA-H110M-DS2" tuvo 1 ventas.
+"Tarjeta Madre ASRock ATX H110 Pro BTC+" tuvo 1 ventas.
+"Tarjeta Madre Gigabyte XL-ATX TRX40 Designare" tuvo 1 ventas.
+"Tarjeta Madre ASUS ATX PRIME Z390-A" tuvo 2 ventas.
+"Tarjeta Madre MSI ATX B450 TOMAHAWK MAX" tuvo 6 ventas.
+
+Menores ventas para la categoria de tarjetas de video
+"Tarjeta de Video Zotac NVIDIA GeForce GTX 1660 Ti" tuvo 1 ventas.
+"Tarjeta de Video MSI NVIDIA GeForce GTX 1050 Ti OC" tuvo 1 ventas.
+"Tarjeta de Video Gigabyte AMD Radeon R7 370 OC" tuvo 1 ventas.
+"Tarjeta de Video Asus NVIDIA GeForce GTX 1050 Ti Phoenix" tuvo 1 ventas.
+"MSI GeForce 210" tuvo 1 ventas.
+
+Menores ventas para la categoria de bocinas
+"Logitech Bocinas para Computadora con Subwoofer G560" tuvo 2 ventas.
+
+Menores ventas para la categoria de procesadores
+"Procesador AMD Ryzen 3 3300X S-AM4" tuvo 2 ventas.
+"Procesador Intel Core i9-9900K" tuvo 3 ventas.
+"Procesador Intel Core i5-9600K" tuvo 4 ventas.
+"Procesador Intel Core i7-9700K" tuvo 7 ventas.
+"Procesador AMD Ryzen 3 3200G con Gráficos Radeon Vega 8" tuvo 13 ventas.
+
+------------- LEAST SEARCHED BY CATEGORY -----------------------------------------------
+La categoría de bocinas tuvo 9 búsquedas.
+La categoría de pantallas tuvo 56 búsquedas.
+La categoría de audifonos tuvo 64 búsquedas.
+La categoría de tarjetas de video tuvo 82 búsquedas.
+La categoría de tarjetas madre tuvo 137 búsquedas.
+La categoría de procesadores tuvo 222 búsquedas.
+La categoría de discos duros tuvo 463 búsquedas.
+
+Menores búsquedas para la categoria de audifonos
+"Ginga Audífonos con Micrófono GI18ADJ01BT-RO" tuvo 1 búsquedas.
+"Genius GHP-400S Audífonos" tuvo 2 búsquedas.
+"Iogear Audífonos Gamer GHG601" tuvo 3 búsquedas.
+"HyperX Audífonos Gamer Cloud Flight para PC/PS4/PS4 Pro" tuvo 6 búsquedas.
+"Cougar Audífonos Gamer Phontum Essential" tuvo 7 búsquedas.
+"Logitech Audífonos Gamer G332" tuvo 10 búsquedas.
+"Logitech Audífonos Gamer G635 7.1" tuvo 35 búsquedas.
+
+Menores búsquedas para la categoria de bocinas
+"Ghia Bocina Portátil BX800" tuvo 1 búsquedas.
+"Acteck Bocina con Subwoofer AXF-290" tuvo 2 búsquedas.
+"Logitech Bocinas para Computadora con Subwoofer G560" tuvo 6 búsquedas.
+
+Menores búsquedas para la categoria de pantallas
+"Samsung Smart TV LED 43" tuvo 1 búsquedas.
+"Samsung Smart TV LED UN55TU7000FXZX 55" tuvo 4 búsquedas.
+"Seiki TV LED SC-39HS950N 38.5" tuvo 4 búsquedas.
+"TCL Smart TV LED 55S425 54.6" tuvo 15 búsquedas.
+"TV Monitor LED 24TL520S-PU 24" tuvo 32 búsquedas.
+
+Menores búsquedas para la categoria de discos duros
+"SSD Samsung 860 EVO" tuvo 1 búsquedas.
+"SSD para Servidor Lenovo Thinksystem S4500" tuvo 2 búsquedas.
+"SSD Western Digital WD Blue 3D NAND" tuvo 5 búsquedas.
+"SSD Crucial MX500" tuvo 7 búsquedas.
+"Kit SSD Kingston KC600" tuvo 10 búsquedas.
+"SSD Kingston UV500" tuvo 11 búsquedas.
+"SSD Kingston A2000 NVMe" tuvo 27 búsquedas.
+"SSD XPG SX8200 Pro" tuvo 30 búsquedas.
+"SSD Adata Ultimate SU800" tuvo 107 búsquedas.
+"SSD Kingston A400" tuvo 263 búsquedas.
+
+Menores búsquedas para la categoria de tarjetas madre
+"Tarjeta Madre ASRock ATX H110 Pro BTC+" tuvo 1 búsquedas.
+"Tarjeta Madre Gigabyte micro ATX Z390 M GAMING" tuvo 1 búsquedas.
+"ASUS T. Madre uATX M4A88T-M" tuvo 3 búsquedas.
+"Tarjeta Madre Gigabyte micro ATX GA-H110M-DS2" tuvo 4 búsquedas.
+"Tarjeta Madre Gigabyte XL-ATX TRX40 Designare" tuvo 10 búsquedas.
+"Tarjeta Madre AORUS micro ATX B450 AORUS M (rev. 1.0)" tuvo 10 búsquedas.
+"Tarjeta Madre ASRock Micro ATX B450M Steel Legend" tuvo 23 búsquedas.
+"Tarjeta Madre MSI ATX B450 TOMAHAWK MAX" tuvo 25 búsquedas.
+"Tarjeta Madre ASUS micro ATX TUF B450M-PLUS GAMING" tuvo 60 búsquedas.
+
+Menores búsquedas para la categoria de tarjetas de video
+"Tarjeta de Video VisionTek AMD Radeon HD5450" tuvo 1 búsquedas.
+"MSI GeForce 210" tuvo 1 búsquedas.
+"Tarjeta de Video Asus NVIDIA GeForce GTX 1050 Ti Phoenix" tuvo 2 búsquedas.
+"Tarjeta de Video Gigabyte AMD Radeon R7 370 OC" tuvo 3 búsquedas.
+"Tarjeta de Video EVGA NVIDIA GeForce GTX 1660 Ti SC Ultra Gaming" tuvo 4 búsquedas.
+"Tarjeta de Video Zotac NVIDIA GeForce GTX 1660 Ti" tuvo 5 búsquedas.
+"Tarjeta de Video VisionTek AMD Radeon HD 5450" tuvo 5 búsquedas.
+"Tarjeta de Video MSI NVIDIA GeForce GTX 1050 Ti OC" tuvo 5 búsquedas.
+"Tarjeta de Video ASUS AMD Radeon RX 570" tuvo 5 búsquedas.
+"Tarjeta de Video Sapphire AMD Pulse Radeon RX 5500 XT Gaming" tuvo 10 búsquedas.
+"Tarjeta de Video Gigabyte NVIDIA GeForce GT 1030" tuvo 11 búsquedas.
+"Tarjeta de Video MSI AMD Mech Radeon RX 5500 XT MECH Gaming OC" tuvo 15 búsquedas.
+"Tarjeta de Video ASUS NVIDIA GeForce GTX 1660 SUPER EVO OC" tuvo 15 búsquedas.
+
+Menores búsquedas para la categoria de procesadores
+"Procesador Intel Core i3-8100" tuvo 1 búsquedas.
+"Procesador Intel Core i9-9900K" tuvo 10 búsquedas.
+"Procesador AMD Ryzen 3 3300X S-AM4" tuvo 10 búsquedas.
+"Procesador Intel Core i5-9600K" tuvo 20 búsquedas.
+"Procesador AMD Ryzen 5 3600" tuvo 24 búsquedas.
+"Procesador Intel Core i3-9100F" tuvo 30 búsquedas.
+"Procesador Intel Core i7-9700K" tuvo 31 búsquedas.
+"Procesador AMD Ryzen 3 3200G con Gráficos Radeon Vega 8" tuvo 41 búsquedas.
+"Procesador AMD Ryzen 5 2600" tuvo 55 búsquedas.
+
+--------------- BEST REVIEWS BY PRODUCT ------------------------------------------------
+"Logitech Audífonos Gamer G635 7.1" tuvo 5.00 en calificación.
+"Logitech Audífonos Gamer G332" tuvo 5.00 en calificación.
+"TV Monitor LED 24TL520S-PU 24" tuvo 5.00 en calificación.
+"TCL Smart TV LED 55S425 54.6" tuvo 5.00 en calificación.
+"Kit Memoria RAM Corsair Dominator Platinum DDR4" tuvo 5.00 en calificación.
+"SSD Western Digital WD Blue 3D NAND" tuvo 5.00 en calificación.
+"SSD Crucial MX500" tuvo 5.00 en calificación.
+"Kit SSD Kingston KC600" tuvo 5.00 en calificación.
+"Tarjeta Madre Gigabyte XL-ATX TRX40 Designare" tuvo 5.00 en calificación.
+
+--------------- WORST REVIEWS BY PRODUCT -----------------------------------------------
+"Tarjeta Madre AORUS micro ATX B450 AORUS M (rev. 1.0)" tuvo 2.67 en calificación.
+"Cougar Audífonos Gamer Phontum Essential" tuvo 3.00 en calificación.
+"MSI GeForce 210" tuvo 4.00 en calificación.
+"Tarjeta de Video Asus NVIDIA GeForce GTX 1050 Ti Phoenix" tuvo 4.00 en calificación.
+"HyperX Audífonos Gamer Cloud Flight para PC/PS4/PS4 Pro" tuvo 4.00 en calificación.
+"Procesador AMD Ryzen 5 3600" tuvo 4.33 en calificación.
+"Tarjeta Madre ASUS micro ATX TUF B450M-PLUS GAMING" tuvo 4.38 en calificación.
+"Tarjeta de Video Gigabyte NVIDIA GeForce GT 1030" tuvo 4.40 en calificación.
+"Procesador AMD Ryzen 3 3200G con Gráficos Radeon Vega 8" tuvo 4.46 en calificación.
+"Tarjeta Madre ASUS ATX PRIME Z390-A" tuvo 4.50 en calificación.
+
+------------------------- REVENUE ------------------------------------------------------
+Ingresos totales: $ 737 916.00 MXN
+
+Ingresos en el año 2002: $ 259.00 MXN
+Ingresos en el año 2020: $ 737 657.00 MXN
+
+Ingresos en el mes de enero del año 2020: $ 117 738.00 MXN
+Ingresos en el mes de febrero del año 2020: $ 107 270.00 MXN
+Ingresos en el mes de marzo del año 2020: $ 162 931.00 MXN
+Ingresos en el mes de abril del año 2020: $ 191 066.00 MXN
+Ingresos en el mes de mayo del año 2020: $ 91 677.00 MXN
+Ingresos en el mes de junio del año 2020: $ 36 949.00 MXN
+Ingresos en el mes de julio del año 2020: $ 26 949.00 MXN
+Ingresos en el mes de agosto del año 2020: $ 3 077.00 MXN
+
+El mes de abril del año 2020 tuvo la mayor cantidad ingresos con: $ 191 066.00 MXN
